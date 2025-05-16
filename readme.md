@@ -2,17 +2,16 @@
 
 ## Hello! I am [Kalpana](https://www.linkedin.com/in/skalpana/) 👩‍💻
 
-I am passionate about Data Analytics and Technology. I enjoy exploring data to uncover insights and building dashboards that solve real-world problems. My background in Computer Hardware and Networking from YCH University helps me bridge the gap between systems and data.
+I am passionate about Data Analytics and love working with technology to uncover insights from data. I hold a diploma in Computer Hardware and Networking from **YCM University**, and have since built hands-on experience in tools like Python, Power BI, Tableau, and Excel.
 
-📊 I specialize in transforming raw data into actionable insights using tools like Python, Power BI, Tableau, and Excel.  
-💡 I love learning and continuously upskilling in data analytics, business intelligence, and reporting automation.  
-🧩 I enjoy solving complex problems with data, and visualizing them using clean, impactful dashboards.
+💡 I enjoy solving business problems using data and building beautiful dashboards to present stories hidden in numbers.  
+📊 I believe in continuous learning and am currently focused on mastering advanced analytics, automation, and data visualization.  
+🌐 I have a keen interest in web technologies and BI tools and strive to bridge data with design.
 
-- 🔧 I work with Python libraries like Pandas, NumPy, Plotly, and Seaborn
-- 📈 I build interactive dashboards with Power BI and Tableau
-- 📝 I’m also skilled in SQL, Excel, and data storytelling
-- 🌐 I have basic web development experience with WordPress, HTML, CSS, and PHP
-- 📩 Feel free to reach out if you’d like to collaborate on data projects or analytics roles
+- 🔧 I work with Python libraries like Pandas, NumPy, Plotly, and Seaborn  
+- 📈 I build dashboards using Power BI and Tableau  
+- 🗃 I’m comfortable with SQL, Excel, and Jupyter for exploratory data analysis  
+- 🌍 I also have basic knowledge of HTML, CSS, Bootstrap, PHP, and WordPress
 
 ---
 
@@ -39,25 +38,27 @@ I am passionate about Data Analytics and Technology. I enjoy exploring data to u
 
 ---
 
-## 📬 Reach out to me on
+## 🔗 Reach out to me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/skalpana/)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/kalpana-da)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail)](mailto:mailatkalpanaa@gmail.com)
+<p>
+  <a href="https://www.linkedin.com/in/skalpana/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://github.com/kalpana-da" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"></a>
+  <a href="mailto:mailatkalpanaa@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"></a>
+  <a href="https://go1digital.com" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Go1digital.com-000000?style=for-the-badge&logo=google-chrome"></a>
+</p>
 
 ---
 
-## 📊 Github Stats:
+### ✨ More About Me
+
+- I actively support and encourage women in tech and contribute to community-driven causes  
+- I love learning new technologies and experimenting with them  
+- In my free time, I enjoy **traveling**, discovering **authentic food**, and exploring **new cultures**
+
+---
 
 <div align="center">
 
-![Kalpana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kalpana-da&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kalpana-da&layout=compact&theme=radical)
+**💌 Feel free to [contact me](mailto:mailatkalpanaa@gmail.com) if you want to work on some interesting projects or to discuss technology.**
 
 </div>
-
----
-
-## 🔢 Visitors Count  
-
-![Visitor Count](https://profile-counter.glitch.me/kalpana-da/count.svg)
