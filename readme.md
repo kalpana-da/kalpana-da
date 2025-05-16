@@ -14,7 +14,7 @@ I’m a passionate Data Analytics professional who loves transforming raw data i
 <table>
   <tr>
     <td>
-      <ul>
+      <ul style="list-style:none!important; padding-left: 0;">
         <li>📊 Data Analytics & Visualization using Power BI, Tableau, Excel</li>
         <li>🧮 Python-based analysis with Pandas, NumPy, Seaborn & Plotly</li>
         <li>🧠 SQL for querying databases and building data pipelines</li>
