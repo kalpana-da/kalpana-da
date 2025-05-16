@@ -18,7 +18,8 @@ I’m a passionate Data Analytics professional who loves transforming raw data i
         <li>📊 Data Analytics & Visualization using Power BI, Tableau, Excel</li>
         <li>🧮 Python-based analysis with Pandas, NumPy, Seaborn & Plotly</li>
         <li>🧠 SQL for querying databases and building data pipelines</li>
-        <li>🌍 Basic web dev with HTML, CSS, Bootstrap, PHP & WordPress</li>
+        <li>🌍 Web dev with HTML, CSS, Bootstrap, PHP & WordPress</li>
+         <li>🌍 Experienced in using ChatGPT and AI tools to automate tasks and smartly reduce timeline</li>
         <li>💻 Love traveling, exploring authentic local food, and learning new tech</li>
       </ul>
     </td>
