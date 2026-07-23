@@ -83,15 +83,20 @@ I enjoy transforming business requirements into clean, user-friendly digital exp
 
 ---
 
+<!-- Visitor Counter -->
 <p align="center">
-<strong>Visitors Count</strong><br>
-<img src="https://profile-counter.glitch.me/kalpana-da/count.svg"/>
+  <strong>Visitors Count</strong><br>
+  <img  src="https://profile-counter.glitch.me/kalpana-da/count.svg"/>
 </p>
 
----
-
-<h3 align="center">
-📬 Feel free to connect if you'd like to collaborate on HubSpot CMS, WordPress, or Frontend Development projects.
-</h3>
 
 </div>
+---
+<h3 align="center">
+  <strong>📬 Feel free to contact me if you want to work on some interesting projects or to discuss technology.</strong><br><br>
+
+  <a href="mailto:mailatkalpanaa@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+</h3>
+
