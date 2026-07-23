@@ -85,8 +85,6 @@ I enjoy transforming business requirements into clean, user-friendly digital exp
 
 <!-- Visitor Counter -->
 <p align="center">
-  <strong>Visitors Count</strong><br>
- 
   <img src="https://komarev.com/ghpvc/?username=kalpana-da&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
 
