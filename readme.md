@@ -90,8 +90,8 @@ I enjoy transforming business requirements into clean, user-friendly digital exp
 </p>
 
 
-</div>
----
+
+
 <h3 align="center">
   <strong>📬 Feel free to contact me if you want to work on some interesting projects or to discuss technology.</strong><br><br>
 
@@ -99,4 +99,4 @@ I enjoy transforming business requirements into clean, user-friendly digital exp
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </h3>
-
+</div>
