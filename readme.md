@@ -1,5 +1,7 @@
 <div style="background:#ccc; color:#000;">
-![HubSpot CMS Developer Banner](https://raw.githubusercontent.com/kalpana-da/kalpana-da/main/hubspot_cms_dev_kalpana.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kalpana-da/kalpana-da/main/hubspot_cms_dev_kalpana.png" alt="HubSpot CMS Developer Banner" width="100%">
+</p>
 # Hi there 👋
 
 ## 👩‍💻 Hello! I am [Kalpana](https://www.linkedin.com/in/skalpana/)
