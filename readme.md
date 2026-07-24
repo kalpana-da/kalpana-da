@@ -1,6 +1,6 @@
 <div style="background:#ccc; color:#000;">
 <p align="center">
-  <img src="hubspot_cms_dev_kalpana.png" alt="HubSpot CMS Developer Banner" width="100%">
+  <img src="https://github.com/kalpana-da/kalpana-da/blob/main/hubspot_dev%20(3).png" alt="HubSpot CMS Developer Banner" width="100%">
 </p>
 # Hi there 👋
 
