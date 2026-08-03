@@ -1,5 +1,3 @@
-## 🏆 HubSpot Certification
-
 <table>
 <tr>
 
