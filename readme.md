@@ -1,8 +1,7 @@
-<div style="background:#ccc; color:#000;">
 <table>
 <tr>
 
-<td width="68%" valign="top">
+<td width="70%" valign="top">
 
 # Hi there 👋
 
@@ -10,23 +9,27 @@
 
 I'm a **HubSpot CMS & WordPress Developer** with **5+ years of experience** building responsive websites, custom modules, landing pages, and reusable frontend components.
 
-I enjoy transforming business requirements into clean, user-friendly digital experiences using **HubSpot CMS, HubL, HTML, CSS, JavaScript, and WordPress**. I also leverage **AI tools** to improve development speed and productivity.
+I enjoy transforming business requirements into clean, user-friendly digital experiences using **HubSpot CMS, HubL, HTML, CSS, JavaScript, and WordPress**.
 
-🚀 Passionate about creating scalable and maintainable web solutions.  
-💡 Experienced in custom HubSpot modules, themes, landing pages, and WordPress development.  
-🎯 HubSpot CMS for Developers II Certified.
+🏆 **HubSpot CMS for Developers II Certified**  
+🚀 Passionate about building scalable, responsive, and high-performance websites.  
+💡 Experienced in HubSpot CMS, WordPress, HubL, custom modules, and modern frontend development.
 
 </td>
 
-<td width="32%" align="center" valign="top">
+<td width="30%" align="center" valign="top">
 
 <a href="https://app-na2.hubspot.com/academy/achievements/sc8pz6b3/en/1/kalpana-s/hubspot-cms-for-developers-ii">
-<img src="https://raw.githubusercontent.com/kalpana-da/kalpana-da/main/1f2e7ef595514fe1ab13a63081ddfe64%20(1).png" width="210" alt="HubSpot CMS for Developers II"/>
+<img src="https://raw.githubusercontent.com/kalpana-da/kalpana-da/main/1f2e7ef595514fe1ab13a63081ddfe64%20(1).png"
+width="180"
+alt="HubSpot CMS Developer II Badge"/>
 </a>
 
 <br><br>
 
-<b>🏆 HubSpot CMS<br>Developers II</b>
+<a href="https://app-na2.hubspot.com/academy/achievements/sc8pz6b3/en/1/kalpana-s/hubspot-cms-for-developers-ii">
+<img src="https://img.shields.io/badge/🏆%20View%20Certification-HubSpot%20Academy-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white" alt="View Certification"/>
+</a>
 
 </td>
 
