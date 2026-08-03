@@ -1,4 +1,4 @@
-## 🏆 HubSpot Certification
+
 
 <table>
 <tr>
@@ -16,28 +16,23 @@ I enjoy transforming business requirements into clean, user-friendly digital exp
 </td>
 
 <td width="35%" align="center">
-🏆 **HubSpot CMS for Developers II Certified**
-<a href="https://app-na2.hubspot.com/academy/achievements/sc8pz6b3/en/1/kalpana-s/hubspot-cms-for-developers-ii">
+🏆 **HubSpot CMS for Developers II Certified**</td>
+<td><a href="https://app-na2.hubspot.com/academy/achievements/sc8pz6b3/en/1/kalpana-s/hubspot-cms-for-developers-ii"></td>
 
-<img src="https://raw.githubusercontent.com/kalpana-da/kalpana-da/main/1f2e7ef595514fe1ab13a63081ddfe64%20(1).png" width="220" alt="HubSpot CMS for Developers II Badge"/>
+<td><img src="https://raw.githubusercontent.com/kalpana-da/kalpana-da/main/1f2e7ef595514fe1ab13a63081ddfe64%20(1).png" width="220" alt="HubSpot CMS for Developers II Badge"/></a></td>
 
-</a>
-
-</td>
-
-<a href="https://app-na2.hubspot.com/academy/achievements/sc8pz6b3/en/1/kalpana-s/hubspot-cms-for-developers-ii">
+<td><a href="https://app-na2.hubspot.com/academy/achievements/sc8pz6b3/en/1/kalpana-s/hubspot-cms-for-developers-ii">
 <img src="https://img.shields.io/badge/🏆%20View%20Certification-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white" alt="View Certification"/>
 </a>
-
+</td>
 &nbsp;
-
+<td>
 <a href="https://www.linkedin.com/in/skalpana/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
+  </td>
 </tr>
 </table>
-
----
 
 ---
 
