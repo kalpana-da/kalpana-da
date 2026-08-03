@@ -1,7 +1,9 @@
 <div style="background:#ccc; color:#000;">
-<p align="center">
-  <img src="https://github.com/kalpana-da/kalpana-da/blob/main/hubspot_dev%20(3).png" alt="HubSpot CMS Developer Banner" width="100%">
-</p>
+<table>
+<tr>
+
+<td width="68%" valign="top">
+
 # Hi there 👋
 
 ## 👩‍💻 Hello! I am [Kalpana](https://www.linkedin.com/in/skalpana/)
@@ -12,7 +14,24 @@ I enjoy transforming business requirements into clean, user-friendly digital exp
 
 🚀 Passionate about creating scalable and maintainable web solutions.  
 💡 Experienced in custom HubSpot modules, themes, landing pages, and WordPress development.  
-🎯 Currently expanding my expertise in HubSpot CMS, HubL, and modern frontend development.
+🎯 HubSpot CMS for Developers II Certified.
+
+</td>
+
+<td width="32%" align="center" valign="top">
+
+<a href="https://app-na2.hubspot.com/academy/achievements/sc8pz6b3/en/1/kalpana-s/hubspot-cms-for-developers-ii">
+<img src="https://raw.githubusercontent.com/kalpana-da/kalpana-da/main/1f2e7ef595514fe1ab13a63081ddfe64%20(1).png" width="210" alt="HubSpot CMS for Developers II"/>
+</a>
+
+<br><br>
+
+<b>🏆 HubSpot CMS<br>Developers II</b>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
