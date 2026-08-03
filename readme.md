@@ -1,6 +1,4 @@
-
-
-<table>
+<table width="100%">
 <tr>
 
 <td width="65%" valign="middle">
@@ -11,26 +9,34 @@ I'm a **HubSpot CMS & WordPress Developer** with **5+ years of experience** buil
 
 I enjoy transforming business requirements into clean, user-friendly digital experiences using **HubSpot CMS, HubL, HTML, CSS, JavaScript, and WordPress**.
 
-
-
 </td>
 
-<td width="35%" align="center">
-🏆 **HubSpot CMS for Developers II Certified**</td>
-<td><a href="https://app-na2.hubspot.com/academy/achievements/sc8pz6b3/en/1/kalpana-s/hubspot-cms-for-developers-ii"></td>
+<td width="35%" align="center" valign="top">
 
-<td><img src="https://raw.githubusercontent.com/kalpana-da/kalpana-da/main/1f2e7ef595514fe1ab13a63081ddfe64%20(1).png" width="220" alt="HubSpot CMS for Developers II Badge"/></a></td>
+<b>🏆 HubSpot CMS for Developers II Certified</b>
 
-<td><a href="https://app-na2.hubspot.com/academy/achievements/sc8pz6b3/en/1/kalpana-s/hubspot-cms-for-developers-ii">
-<img src="https://img.shields.io/badge/🏆%20View%20Certification-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white" alt="View Certification"/>
+<br><br>
+
+<a href="https://app-na2.hubspot.com/academy/achievements/sc8pz6b3/en/1/kalpana-s/hubspot-cms-for-developers-ii">
+<img src="https://raw.githubusercontent.com/kalpana-da/kalpana-da/main/1f2e7ef595514fe1ab13a63081ddfe64%20(1).png"
+width="210"
+alt="HubSpot Badge">
 </a>
-</td>
-&nbsp;
-<td>
+
+<br><br>
+
+<a href="https://app-na2.hubspot.com/academy/achievements/sc8pz6b3/en/1/kalpana-s/hubspot-cms-for-developers-ii">
+<img src="https://img.shields.io/badge/View%20Certification-HubSpot%20Academy-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white">
+</a>
+
+<br><br>
+
 <a href="https://www.linkedin.com/in/skalpana/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-  </td>
+
+</td>
+
 </tr>
 </table>
 
