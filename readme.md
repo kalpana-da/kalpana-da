@@ -16,9 +16,9 @@ I enjoy transforming business requirements into clean, user-friendly digital exp
 
 ---
 
-<table>
+<table <td width="100%">
 <tr>
-<td>
+<td width="70%" align="center" valign="middle">
 
 - 🚀 HubSpot CMS Development (HubL, Custom Modules & Themes)
 - 🌐 WordPress Development & Elementor
@@ -31,7 +31,7 @@ I enjoy transforming business requirements into clean, user-friendly digital exp
 
 </td>
 
-<td width="40%" align="center" valign="middle">
+<td width="30%" align="center" valign="middle">
 
 <a target="_blank" href="https://app-na2.hubspot.com/academy/achievements/sc8pz6b3/en/1/kalpana-s/hubspot-cms-for-developers-ii">
   <img src="https://raw.githubusercontent.com/kalpana-da/kalpana-da/main/1f2e7ef595514fe1ab13a63081ddfe64%20(1).png"
