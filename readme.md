@@ -56,7 +56,7 @@ Successfully completed the **HubSpot CMS for Developers II** certification from 
 <table>
 <tr>
 
-<td width="60%">
+<td width="65%">
 
 - 🚀 HubSpot CMS Development
 - 📦 Custom HubSpot Modules
@@ -72,7 +72,7 @@ Successfully completed the **HubSpot CMS for Developers II** certification from 
 
 </td>
 
-<td width="50%" align="center">
+<td width="35%" align="center">
 
 <img src="https://raw.githubusercontent.com/kalpana-da/kalpana-da/refs/heads/main/i7TbtCxjfhn7GJKSQG.webp" width="280">
 
