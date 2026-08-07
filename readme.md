@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Kalpana Sharma
+<img width="1020" height="505" alt="image" src="https://github.com/user-attachments/assets/9913728f-6202-4d74-8075-7ab3d476a33a" /># 👋 Hi, I'm Kalpana Sharma
 
 ## HubSpot CMS Developer | WordPress Developer | HubL | HTML | CSS | JavaScript
 
@@ -50,7 +50,7 @@ Successfully completed the **HubSpot CMS for Developers II** certification from 
 
 ---
 
-<table>
+<table width="100%">
 <tr>
 <td width="60%" valign="top">
 
