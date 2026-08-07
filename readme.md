@@ -30,7 +30,6 @@ I enjoy transforming business requirements into clean, user-friendly digital exp
         <li>📚 Continuously learning new web technologies</li>
       </ul>
     </td>
-
     <td width="30%" align="center" valign="middle">
       <a target="_blank" href="[app-na2.hubspot.com](https://app-na2.hubspot.com/academy/achievements/sc8pz6b3/en/1/kalpana-s/hubspot-cms-for-developers-ii)">
         <img src="[raw.githubusercontent.com](https://raw.githubusercontent.com/kalpana-da/kalpana-da/main/1f2e7ef595514fe1ab13a63081ddfe64%20(1).png)"
@@ -44,7 +43,6 @@ I enjoy transforming business requirements into clean, user-friendly digital exp
       </a>
     </td>
   </tr>
-
   <tr>
     <td colspan="2" align="center">
       <h2>🌐 Connect With Me</h2>
