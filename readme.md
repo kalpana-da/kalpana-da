@@ -45,7 +45,8 @@ I enjoy transforming business requirements into clean, user-friendly digital exp
   <img src="https://img.shields.io/badge/View%20Certification-24292E?style=for-the-badge&logo=hubspot&logoColor=white">
 </a>
 
-</td></td></tr><tr>
+</td></tr>
+<tr>
 <td colspan="2" align="center">
 
 ## 🌐 Connect With Me
