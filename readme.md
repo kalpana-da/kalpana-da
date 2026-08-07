@@ -46,7 +46,6 @@ I enjoy transforming business requirements into clean, user-friendly digital exp
 </a>
 
 </td>
-<tr>
 <td colspan="2" align="center">
 
 ## 🌐 Connect With Me
@@ -68,7 +67,7 @@ I enjoy transforming business requirements into clean, user-friendly digital exp
 </a>
 
 </td>
-</tr>
+
 </tr>
 </table>
 
