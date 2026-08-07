@@ -19,21 +19,19 @@ I enjoy transforming business requirements into clean, user-friendly digital exp
 <table width="100%">
   <tr>
     <td width="65%" valign="top">
-      <ul>
-        <li>🚀 <strong>HubSpot CMS Development</strong> (HubL, Custom Modules &amp; Themes)</li>
-        <li>🌐 <strong>WordPress Development</strong> &amp; Elementor</li>
-        <li>💻 <strong>HTML5, CSS3, JavaScript</strong> &amp; Responsive Design</li>
-        <li>🎨 <strong>Landing Page Design</strong> &amp; UI Implementation</li>
-        <li>⚡ <strong>HubSpot CRM</strong>, Email Templates &amp; Marketing Assets</li>
-        <li>🤖 <strong>AI-assisted Development</strong> using ChatGPT &amp; Modern AI Tools</li>
-        <li>🔧 <strong>Git &amp; GitHub</strong> Version Control</li>
-        <li>📚 <strong>Continuously learning</strong> new web technologies</li>
-      </ul>
+      <br>
+      <p>🚀 <strong>HubSpot CMS Development</strong> (HubL, Custom Modules &amp; Themes)</p>
+      <p>🌐 <strong>WordPress Development</strong> &amp; Elementor</p>
+      <p>💻 <strong>HTML5, CSS3, JavaScript</strong> &amp; Responsive Design</p>
+      <p>🎨 <strong>Landing Page Design</strong> &amp; UI Implementation</p>
+      <p>⚡ <strong>HubSpot CRM</strong>, Email Templates &amp; Marketing Assets</p>
+      <p>🤖 <strong>AI-assisted Development</strong> using ChatGPT &amp; Modern AI Tools</p>
+      <p>🔧 <strong>Git &amp; GitHub</strong> Version Control</p>
+      <p>📚 <strong>Continuously learning</strong> new web technologies</p>
     </td>
-
     <td width="35%" align="center" valign="middle">
       <a target="_blank" href="https://app-na2.hubspot.com/academy/achievements/sc8pz6b3/en/1/kalpana-s/hubspot-cms-for-developers-ii">
-        <img src="https://raw.githubusercontent.com/kalpana-da/kalpana-da/main/1f2e7ef595514fe1ab13a63081ddfe64%20(1).png" width="220" alt="HubSpot CMS for Developers II">
+        <img src="https://raw.githubusercontent.com/kalpana-da/kalpana-da/main/1f2e7ef595514fe1ab13a63081ddfe64%20(1).png" width="200" alt="HubSpot CMS Certification Badge">
       </a>
       <br><br>
       <a target="_blank" href="https://app-na2.hubspot.com/academy/achievements/sc8pz6b3/en/1/kalpana-s/hubspot-cms-for-developers-ii">
@@ -41,7 +39,6 @@ I enjoy transforming business requirements into clean, user-friendly digital exp
       </a>
     </td>
   </tr>
-
   <tr>
     <td colspan="2" align="center">
       <br>
@@ -51,7 +48,7 @@ I enjoy transforming business requirements into clean, user-friendly digital exp
       </a>
       &nbsp;&nbsp;
       <a href="mailto:mailatkalpanaa@gmail.com">
-        <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email">
+        <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail">
       </a>
       &nbsp;&nbsp;
       <a href="https://github.com/kalpana-da" target="_blank">
