@@ -17,60 +17,56 @@ I enjoy transforming business requirements into clean, user-friendly digital exp
 ---
 
 <table width="100%">
-<tr>
-<td width="70%" align="center" valign="middle">
+  <tr>
+    <td width="70%" valign="top">
+      <ul>
+        <li>🚀 HubSpot CMS Development (HubL, Custom Modules & Themes)</li>
+        <li>🌐 WordPress Development & Elementor</li>
+        <li>💻 HTML5, CSS3, JavaScript & Responsive Design</li>
+        <li>🎨 Landing Page Design & UI Implementation</li>
+        <li>⚡ HubSpot CRM, Email Templates & Marketing Assets</li>
+        <li>🤖 AI-assisted Development using ChatGPT & Modern AI Tools</li>
+        <li>🔧 Git & GitHub Version Control</li>
+        <li>📚 Continuously learning new web technologies</li>
+      </ul>
+    </td>
 
-- 🚀 HubSpot CMS Development (HubL, Custom Modules & Themes)
-- 🌐 WordPress Development & Elementor
-- 💻 HTML5, CSS3, JavaScript & Responsive Design
-- 🎨 Landing Page Design & UI Implementation
-- ⚡ HubSpot CRM, Email Templates & Marketing Assets
-- 🤖 AI-assisted Development using ChatGPT & Modern AI Tools
-- 🔧 Git & GitHub Version Control
-- 📚 Continuously learning new web technologies
+    <td width="30%" align="center" valign="middle">
+      <a target="_blank" href="[app-na2.hubspot.com](https://app-na2.hubspot.com/academy/achievements/sc8pz6b3/en/1/kalpana-s/hubspot-cms-for-developers-ii)">
+        <img src="[raw.githubusercontent.com](https://raw.githubusercontent.com/kalpana-da/kalpana-da/main/1f2e7ef595514fe1ab13a63081ddfe64%20(1).png)"
+             width="260"
+             alt="HubSpot CMS for Developers II" />
+      </a>
+      <br><br>
+      <a target="_blank" href="[app-na2.hubspot.com](https://app-na2.hubspot.com/academy/achievements/sc8pz6b3/en/1/kalpana-s/hubspot-cms-for-developers-ii)">
+        <img src="[img.shields.io](https://img.shields.io/badge/View%20Certification-24292E?style=for-the-badge&logo=hubspot&logoColor=white)"
+             alt="View Certification" />
+      </a>
+    </td>
+  </tr>
 
-</td>
-
-<td width="30%" align="center" valign="middle">
-
-<a target="_blank" href="https://app-na2.hubspot.com/academy/achievements/sc8pz6b3/en/1/kalpana-s/hubspot-cms-for-developers-ii">
-  <img src="https://raw.githubusercontent.com/kalpana-da/kalpana-da/main/1f2e7ef595514fe1ab13a63081ddfe64%20(1).png"
-       width="260"
-       alt="HubSpot CMS for Developers II">
-</a>
-
-<br>
-
-<a target="_blank" href="https://app-na2.hubspot.com/academy/achievements/sc8pz6b3/en/1/kalpana-s/hubspot-cms-for-developers-ii">
-  <img src="https://img.shields.io/badge/View%20Certification-24292E?style=for-the-badge&logo=hubspot&logoColor=white">
-</a>
-
-</td>
-<tr>
-<td colspan="2" align="center">
-
-## 🌐 Connect With Me
-
-<a href="https://www.linkedin.com/in/skalpana" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="42" />
-</a>
-&nbsp;&nbsp;
-<a href="mailto:mailatkalpanaa@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" height="42" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/kalpana-da" target="_blank">
-  <img src="https://skillicons.dev/icons?i=github" height="42" />
-</a>
-&nbsp;&nbsp;
-<a href="https://go1digital.com" target="_blank">
-  <img src="https://img.icons8.com/fluency/48/domain.png" height="42" />
-</a>
-
-</td>
-</tr>
-</tr>
+  <tr>
+    <td colspan="2" align="center">
+      <h2>🌐 Connect With Me</h2>
+      <a href="[linkedin.com](https://www.linkedin.com/in/skalpana)" target="_blank">
+        <img src="[skillicons.dev](https://skillicons.dev/icons?i=linkedin)" height="42" alt="LinkedIn" />
+      </a>
+      &nbsp;&nbsp;
+      <a href="mailto:mailatkalpanaa@gmail.com">
+        <img src="[skillicons.dev](https://skillicons.dev/icons?i=gmail)" height="42" alt="Gmail" />
+      </a>
+      &nbsp;&nbsp;
+      <a href="[github.com](https://github.com/kalpana-da)" target="_blank">
+        <img src="[skillicons.dev](https://skillicons.dev/icons?i=github)" height="42" alt="GitHub" />
+      </a>
+      &nbsp;&nbsp;
+      <a href="[go1digital.com](https://go1digital.com)" target="_blank">
+        <img src="[img.icons8.com](https://img.icons8.com/fluency/48/domain.png)" height="42" alt="Website" />
+      </a>
+    </td>
+  </tr>
 </table>
+
 
 ---
 
