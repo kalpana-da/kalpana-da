@@ -12,10 +12,10 @@ I recently earned the **HubSpot CMS for Developers II** certification and contin
 
 # 🏆 HubSpot Certification
 
-<table>
+<table width="100%">
 <tr>
 
-<td width="65%" valign="top">
+<td width="60%" valign="top">
 
 ### HubSpot CMS for Developers II
 
@@ -33,14 +33,14 @@ Successfully completed the **HubSpot CMS for Developers II** certification from 
 <br>
 
 <a href="YOUR_CERTIFICATE_LINK">
-<img src="https://img.shields.io/badge/View%20Certificate-24292e?style=for-the-badge&logo=hubspot&logoColor=white"/>
+<img src="https://img.shields.io/badge/View%20Certification-24292E?style=for-the-badge&logo=hubspot&logoColor=white">
 </a>
 
 </td>
 
-<td width="35%" align="center" valign="middle">
+<td width="40%" align="center" valign="middle">
 
-<img src="YOUR_CERTIFICATE_IMAGE" width="260"/>
+<img src="YOUR_CERTIFICATE_IMAGE" width="260">
 
 </td>
 
@@ -51,7 +51,7 @@ Successfully completed the **HubSpot CMS for Developers II** certification from 
 
 # 💻 Skills
 
-<table>
+<table width="100%">
 <tr>
 
 <td width="60%" valign="top">
@@ -72,7 +72,7 @@ Successfully completed the **HubSpot CMS for Developers II** certification from 
 
 <td width="40%" align="center" valign="middle">
 
-<img src="https://raw.githubusercontent.com/kalpana-da/kalpana-da/refs/heads/main/i7TbtCxjfhn7GJKSQG.webp" width="320"/>
+<img src="https://raw.githubusercontent.com/kalpana-da/kalpana-da/refs/heads/main/i7TbtCxjfhn7GJKSQG.webp" width="300">
 
 </td>
 
@@ -86,25 +86,25 @@ Successfully completed the **HubSpot CMS for Developers II** certification from 
 <p align="center">
 
 <a href="https://www.linkedin.com/in/skalpana">
-<img src="https://skillicons.dev/icons?i=linkedin" height="48"/>
+<img src="https://skillicons.dev/icons?i=linkedin" width="48">
 </a>
 
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 
 <a href="mailto:mailatkalpanaa@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="48"/>
+<img src="https://skillicons.dev/icons?i=gmail" width="48">
 </a>
 
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 
 <a href="https://github.com/kalpana-da">
-<img src="https://skillicons.dev/icons?i=github" height="48"/>
+<img src="https://skillicons.dev/icons?i=github" width="48">
 </a>
 
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 
 <a href="https://go1digital.com">
-<img src="https://img.icons8.com/fluency/48/domain.png" height="48"/>
+<img src="https://img.icons8.com/fluency/48/domain.png" width="48">
 </a>
 
 </p>
@@ -115,7 +115,7 @@ Successfully completed the **HubSpot CMS for Developers II** certification from 
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,wordpress,git,github,vscode,figma"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,wordpress,git,github,vscode">
 
 </p>
 
@@ -123,13 +123,11 @@ Successfully completed the **HubSpot CMS for Developers II** certification from 
 
 # 📂 Featured Projects
 
-| Project | Description |
-|---------|-------------|
-| 🚀 HubSpot Custom Modules | Reusable HubSpot modules built with HubL |
-| 🎨 Responsive Landing Pages | Pixel-perfect landing pages |
-| ⚡ HubSpot CMS Themes | Custom HubSpot themes |
-| 🌐 WordPress Business Websites | Business & corporate websites |
-| 📱 Frontend UI Components | Responsive UI development |
+- 🚀 HubSpot Custom Modules
+- 🎨 Responsive Landing Pages
+- ⚡ HubSpot CMS Themes
+- 🌐 WordPress Business Websites
+- 📱 Frontend UI Components
 
 ---
 
@@ -137,14 +135,14 @@ Successfully completed the **HubSpot CMS for Developers II** certification from 
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kalpana-da&show_icons=true&theme=default"/>
+<img src="https://github-readme-stats.vercel.app/api?username=kalpana-da&show_icons=true">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalpana-da&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalpana-da&layout=compact">
 
 </p>
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=kalpana-da"/>
+<img src="https://streak-stats.demolab.com?user=kalpana-da">
 
 </p>
