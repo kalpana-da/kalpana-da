@@ -1,53 +1,39 @@
+<div style="background:#ccc; color:#000;">
+<p align="center">
+  <img src="https://github.com/kalpana-da/kalpana-da/blob/main/hubspot_dev%20(3).png" alt="HubSpot CMS Developer Banner" width="100%">
+</p>
+# Hi there 👋
+
+## 👩‍💻 Hello! I am [Kalpana](https://www.linkedin.com/in/skalpana/)
+
+I'm a **HubSpot CMS & WordPress Developer** with **5+ years of experience** building responsive websites, custom modules, landing pages, and reusable frontend components.
+
+I enjoy transforming business requirements into clean, user-friendly digital experiences using **HubSpot CMS, HubL, HTML, CSS, JavaScript, and WordPress**. I also leverage **AI tools** to improve development speed and productivity.
+
+🚀 Passionate about creating scalable and maintainable web solutions.  
+💡 Experienced in custom HubSpot modules, themes, landing pages, and WordPress development.  
+🎯 Currently expanding my expertise in HubSpot CMS, HubL, and modern frontend development.
 
 ---
 
-<table width="100%">
+<table>
 <tr>
-<td width="60%" valign="top">
+<td>
 
-## 💻 Skills
-
-- 🚀 HubSpot CMS Development
-- 📦 Custom HubSpot Modules
-- 🎨 HubSpot Themes
-- 🌐 WordPress Development
-- 💻 HTML5, CSS3 & JavaScript
-- 📱 Responsive Web Design
-- 🎯 Landing Page Development
-- ⚡ HubSpot CRM & Marketing Assets
-- 🤖 AI-assisted Development
-- 🔧 Git & GitHub
-- 📚 Continuous Learning
+- 🚀 HubSpot CMS Development (HubL, Custom Modules & Themes)
+- 🌐 WordPress Development & Elementor
+- 💻 HTML5, CSS3, JavaScript & Responsive Design
+- 🎨 Landing Page Design & UI Implementation
+- ⚡ HubSpot CRM, Email Templates & Marketing Assets
+- 🤖 AI-assisted Development using ChatGPT & Modern AI Tools
+- 🔧 Git & GitHub Version Control
+- 📚 Continuously learning new web technologies
 
 </td>
 
-<td width="40%" align="center" valign="middle">
+<td>
 
-<img src="https://raw.githubusercontent.com/kalpana-da/kalpana-da/refs/heads/main/i7TbtCxjfhn7GJKSQG.webp" width="280" alt="Kalpana Sharma"/>
-
-</td>
-</tr>
-
-<tr>
-<td colspan="2" align="center">
-
-## 🌐 Connect With Me
-
-<a href="https://www.linkedin.com/in/skalpana" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="42" />
-</a>
-&nbsp;&nbsp;
-<a href="mailto:mailatkalpanaa@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" height="42" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/kalpana-da" target="_blank">
-  <img src="https://skillicons.dev/icons?i=github" height="42" />
-</a>
-&nbsp;&nbsp;
-<a href="https://go1digital.com" target="_blank">
-  <img src="https://img.icons8.com/fluency/48/domain.png" height="42" />
-</a>
+<img src="https://raw.githubusercontent.com/kalpana-da/kalpana-da/refs/heads/main/i7TbtCxjfhn7GJKSQG.webp" width="280" alt="Developer"/>
 
 </td>
 </tr>
