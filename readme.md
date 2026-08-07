@@ -39,6 +39,29 @@ I enjoy transforming business requirements into clean, user-friendly digital exp
 </a>
 
 </td>
+<tr>
+<td colspan="2" align="center">
+
+## 🌐 Connect With Me
+
+<a href="https://www.linkedin.com/in/skalpana" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="42" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:mailatkalpanaa@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="42" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/kalpana-da" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" height="42" />
+</a>
+&nbsp;&nbsp;
+<a href="https://go1digital.com" target="_blank">
+  <img src="https://img.icons8.com/fluency/48/domain.png" height="42" />
+</a>
+
+</td>
+</tr>
 </tr>
 </table>
 
