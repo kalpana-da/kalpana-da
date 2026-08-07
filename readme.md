@@ -51,12 +51,11 @@ Successfully completed the **HubSpot CMS for Developers II** certification from 
 
 ---
 
-## 💻 Skills
-
 <table>
 <tr>
+<td width="65%" valign="top">
 
-<td width="65%">
+## 💻 Skills
 
 - 🚀 HubSpot CMS Development
 - 📦 Custom HubSpot Modules
@@ -72,24 +71,29 @@ Successfully completed the **HubSpot CMS for Developers II** certification from 
 
 </td>
 
-<td width="35%" align="center">
-
-<img src="https://raw.githubusercontent.com/kalpana-da/kalpana-da/refs/heads/main/i7TbtCxjfhn7GJKSQG.webp" width="280">
-
-</td>
-
-</tr>
-</table>
-
----
+<td width="35%" valign="top" align="center">
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/skalpana/)
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:YOUR_EMAIL">
+  <img src="https://skillicons.dev/icons?i=gmail" width="45" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/YOUR_USERNAME" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" width="45" />
+</a>
+&nbsp;&nbsp;
+<a href="https://YOUR_PORTFOLIO_URL" target="_blank">
+  <img src="https://img.icons8.com/fluency/48/domain.png" width="45" />
+</a>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://go1digital.com/startup-portfolio/)
-
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mailatkalpanaa@gmail.com)
+</td>
+</tr>
+</table>
 
 ---
 
