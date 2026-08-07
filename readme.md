@@ -16,7 +16,7 @@ I enjoy transforming business requirements into clean, user-friendly digital exp
 
 ---
 
-<table width="100%">
+<table width="100%" align="center" valign="middle">
 <tr>
 <td width="70%">
 
