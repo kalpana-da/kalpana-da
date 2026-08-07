@@ -33,7 +33,10 @@ I enjoy transforming business requirements into clean, user-friendly digital exp
 
 <td>
 
-<img src="https://raw.githubusercontent.com/kalpana-da/kalpana-da/refs/heads/main/i7TbtCxjfhn7GJKSQG.webp" width="280" alt="Developer"/>
+<img src="https://raw.githubusercontent.com/kalpana-da/kalpana-da/refs/heads/main/hubspot-certification.webp" width="260" alt="HubSpot CMS for Developers II">
+<a href="https://app.hubspot.com/academy/achievements/85bk5vvt/en/1/kalpana-sharma/hubspot-cms-for-developers-ii">
+  <img src="https://img.shields.io/badge/View%20Certification-24292E?style=for-the-badge&logo=hubspot&logoColor=white">
+</a>
 
 </td>
 </tr>
