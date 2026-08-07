@@ -30,7 +30,6 @@ Successfully completed the **HubSpot CMS for Developers II** certification from 
 - Performance Optimization
 - Accessibility Best Practices
 
-<br>
 <a href="https://www.linkedin.com/in/skalpana/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
@@ -53,7 +52,7 @@ Successfully completed the **HubSpot CMS for Developers II** certification from 
 
 <table>
 <tr>
-<td width="65%" valign="top">
+<td width="60%" valign="top">
 
 ## 💻 Skills
 
@@ -71,24 +70,32 @@ Successfully completed the **HubSpot CMS for Developers II** certification from 
 
 </td>
 
-<td width="35%" valign="top" align="center">
+<td width="40%" align="center" valign="middle">
+
+<img src="https://raw.githubusercontent.com/kalpana-da/kalpana-da/refs/heads/main/i7TbtCxjfhn7GJKSQG.webp" width="280" alt="Kalpana Sharma"/>
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2" align="center">
 
 ## 🌐 Connect With Me
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
+<a href="https://www.linkedin.com/in/skalpana" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="42" />
 </a>
 &nbsp;&nbsp;
-<a href="mailto:YOUR_EMAIL">
-  <img src="https://skillicons.dev/icons?i=gmail" width="45" />
+<a href="mailto:mailatkalpanaa@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="42" />
 </a>
 &nbsp;&nbsp;
-<a href="https://github.com/YOUR_USERNAME" target="_blank">
-  <img src="https://skillicons.dev/icons?i=github" width="45" />
+<a href="https://github.com/kalpana-da" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" height="42" />
 </a>
 &nbsp;&nbsp;
-<a href="https://YOUR_PORTFOLIO_URL" target="_blank">
-  <img src="https://img.icons8.com/fluency/48/domain.png" width="45" />
+<a href="https://go1digital.com" target="_blank">
+  <img src="https://img.icons8.com/fluency/48/domain.png" height="42" />
 </a>
 
 </td>
