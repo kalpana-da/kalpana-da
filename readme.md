@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Kalpana Sharma
+<img width="1020" height="505" alt="image" src="https://github.com/user-attachments/assets/9913728f-6202-4d74-8075-7ab3d476a33a" /># 👋 Hi, I'm Kalpana Sharma
 
 ## HubSpot CMS Developer | WordPress Developer | HubL | HTML | CSS | JavaScript
 
@@ -10,18 +10,18 @@ I recently earned the **HubSpot CMS for Developers II** certification and contin
 
 ---
 
-# 🏆 HubSpot Certification
+## 🏆 HubSpot Certification
 
-<table width="100%">
+<table>
 <tr>
 
-<td width="60%" valign="top">
+<td width="65%" valign="top">
 
 ### HubSpot CMS for Developers II
 
 Successfully completed the **HubSpot CMS for Developers II** certification from **HubSpot Academy**.
 
-#### Topics Covered
+**Topics Covered**
 
 - HubSpot CMS Development
 - HubL Templating
@@ -30,18 +30,19 @@ Successfully completed the **HubSpot CMS for Developers II** certification from 
 - Performance Optimization
 - Accessibility Best Practices
 
-<br>
-
-<a href="YOUR_CERTIFICATE_LINK">
-<img src="https://img.shields.io/badge/View%20Certification-24292E?style=for-the-badge&logo=hubspot&logoColor=white">
+<a href="https://www.linkedin.com/in/skalpana/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 </td>
 
-<td width="40%" align="center" valign="middle">
-
-<img src="YOUR_CERTIFICATE_IMAGE" width="260">
-
+<td width="35%" align="center">
+<a href="https://app-na2.hubspot.com/academy/achievements/sc8pz6b3/en/1/kalpana-s/hubspot-cms-for-developers-ii">
+<img src="https://raw.githubusercontent.com/kalpana-da/kalpana-da/main/1f2e7ef595514fe1ab13a63081ddfe64%20(1).png" width="220">
+</a>
+<a href="https://app-na2.hubspot.com/academy/achievements/sc8pz6b3/en/1/kalpana-s/hubspot-cms-for-developers-ii">
+<img src="https://img.shields.io/badge/View%20Certification-HubSpot%20Academy-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white">
+</a>
 </td>
 
 </tr>
@@ -49,12 +50,11 @@ Successfully completed the **HubSpot CMS for Developers II** certification from 
 
 ---
 
-# 💻 Skills
-
 <table width="100%">
 <tr>
-
 <td width="60%" valign="top">
+
+## 💻 Skills
 
 - 🚀 HubSpot CMS Development
 - 📦 Custom HubSpot Modules
@@ -72,56 +72,56 @@ Successfully completed the **HubSpot CMS for Developers II** certification from 
 
 <td width="40%" align="center" valign="middle">
 
-<img src="https://raw.githubusercontent.com/kalpana-da/kalpana-da/refs/heads/main/i7TbtCxjfhn7GJKSQG.webp" width="300">
+<img src="https://raw.githubusercontent.com/kalpana-da/kalpana-da/refs/heads/main/i7TbtCxjfhn7GJKSQG.webp" width="280" alt="Kalpana Sharma"/>
 
 </td>
+</tr>
 
+<tr>
+<td colspan="2" align="center">
+
+## 🌐 Connect With Me
+
+<a href="https://www.linkedin.com/in/skalpana" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="42" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:mailatkalpanaa@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="42" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/kalpana-da" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" height="42" />
+</a>
+&nbsp;&nbsp;
+<a href="https://go1digital.com" target="_blank">
+  <img src="https://img.icons8.com/fluency/48/domain.png" height="42" />
+</a>
+
+</td>
 </tr>
 </table>
 
 ---
 
-# 🌐 Connect With Me
+## 🛠 Tech Stack
 
-<p align="center">
-
-<a href="https://www.linkedin.com/in/skalpana">
-<img src="https://skillicons.dev/icons?i=linkedin" width="48">
-</a>
-
-&nbsp;&nbsp;
-
-<a href="mailto:mailatkalpanaa@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="48">
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://github.com/kalpana-da">
-<img src="https://skillicons.dev/icons?i=github" width="48">
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://go1digital.com">
-<img src="https://img.icons8.com/fluency/48/domain.png" width="48">
-</a>
-
-</p>
+![HubSpot CMS](https://img.shields.io/badge/HubSpot_CMS-FF7A59?style=flat-square&logo=hubspot&logoColor=white)
+![HubL](https://img.shields.io/badge/HubL-FF7A59?style=flat-square)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![Elementor](https://img.shields.io/badge/Elementor-92003B?style=flat-square&logo=elementor&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ---
 
-# 🛠 Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,wordpress,git,github,vscode">
-
-</p>
-
----
-
-# 📂 Featured Projects
+## 📂 Featured Projects
 
 - 🚀 HubSpot Custom Modules
 - 🎨 Responsive Landing Pages
@@ -131,18 +131,28 @@ Successfully completed the **HubSpot CMS for Developers II** certification from 
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=kalpana-da&show_icons=true">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalpana-da&layout=compact">
-
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kalpana-da&theme=github_dark" width="100%">
 </p>
 
+---
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=kalpana-da&label=Profile%20Views&color=0e75b6&style=for-the-badge">
+</p>
+
+---
+
+<h3 align="center">
+📬 I'm always interested in collaborating on HubSpot CMS, WordPress, and frontend development projects.
+</h3>
+
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=kalpana-da">
+<a href="mailto:mailatkalpanaa@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 
 </p>
